@@ -1,0 +1,17 @@
+{
+    "name": "amirul/contact",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amirul\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amirul islam",
+            "email": "dev.amirul@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
